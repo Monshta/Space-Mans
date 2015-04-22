@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: e7045d23fcbc4f64582848e9a0d51361
+timeCreated: 1429562211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Red Alien SS_0
+    21300002: Red Alien SS_1
+    21300004: Red Alien SS_2
+    21300006: Red Alien SS_3
+    21300008: Red Alien SS_4
+    21300010: Red Alien SS_5
+    21300012: Red Alien SS_6
+    21300014: Red Alien SS_7
+    21300016: Red Alien SS_8
+    21300018: Red Alien SS_9
+    21300020: Red Alien SS_10
+    21300022: Red Alien SS_11
+    21300024: Red Alien SS_12
+    21300026: Red Alien SS_13
+    21300028: Red Alien SS_14
+    21300030: Red Alien SS_15
+    21300032: Red Alien SS_16
+    21300034: Red Alien SS_17
+    21300036: Red Alien SS_18
+    21300038: Red Alien SS_19
+    21300040: Red Alien SS_20
+    21300042: Red Alien SS_21
+    21300044: Red Alien SS_22
+    21300046: Red Alien SS_23
+    21300048: Red Alien SS_24
+    21300050: Red Alien SS_25
+    21300052: Red Alien SS_26
+    21300054: Red Alien SS_27
+    21300056: Red Alien SS_28
+    21300058: Red Alien SS_29
+    21300060: Red Alien SS_30
+    21300062: Red Alien SS_31
+    21300064: Red Alien SS_32
+    21300066: Red Alien SS_33
+    21300068: Red Alien SS_34
+    21300070: Red Alien SS_35
+    21300072: Red Alien SS_36
+    21300074: Red Alien SS_37
+    21300076: Red Alien SS_38
+    21300078: Red Alien SS_39
+    21300080: Red Alien SS_40
+    21300082: Red Alien SS_41
+    21300084: Red Alien SS_42
+    21300086: Red Alien SS_43
+    21300088: Red Alien SS_44
+    21300090: Red Alien SS_45
+    21300092: Red Alien SS_46
+    21300094: Red Alien SS_47
+    21300096: Red Alien SS_48
+    21300098: Red Alien SS_49
+    21300100: Red Alien SS_50
+    21300102: Red Alien SS_51
+    21300104: Red Alien SS_52
+    21300106: Red Alien SS_53
+    21300108: Red Alien SS_54
+    21300110: Red Alien SS_55
+    21300112: Red Alien SS_56
+    21300114: Red Alien SS_57
+    21300116: Red Alien SS_58
+    21300118: Red Alien SS_59
+    21300120: Red Alien SS_60
+    21300122: Red Alien SS_61
+    21300124: Red Alien SS_62
+    21300126: Red Alien SS_63
+    21300128: Red Alien SS_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Red Alien SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 425
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 425
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 425
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 426
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 426
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 425
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 425
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_9
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 422
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_10
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 420
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 444
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 444
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 325
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 323
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 324
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 324
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 325
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 325
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 325
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 325
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 322
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_23
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 320
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 210
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 210
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 211
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 211
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 210
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 210
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_35
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 211
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_36
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 211
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_38
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 244
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 110
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 110
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 110
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 110
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_47
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 110
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_48
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 110
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_49
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 110
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_57
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_60
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_61
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_62
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 33
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Alien SS_64
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 33
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
